@@ -1,3 +1,4 @@
+[![Build Status](https://yungshin.visualstudio.com/GetStartedOnAzurePipeline/_apis/build/status/yungshinlin.pipelines-java?branchName=master)](https://yungshin.visualstudio.com/GetStartedOnAzurePipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
